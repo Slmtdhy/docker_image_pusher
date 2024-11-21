@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nicklashansen/tdmpc2:1.0.0
+byaidu/pdf2zh:latest
