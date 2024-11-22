@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nicklashansen/tdmpc2:1.0.0
 byaidu/pdf2zh:latest
+stablebaselines/stable-baselines3:latest
